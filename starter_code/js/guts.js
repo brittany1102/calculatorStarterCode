@@ -6,40 +6,40 @@
 function divide(x,y)
 {
 	//Write your code below this line
-	
+	return x / y;
 }
 
 function multiply(x,y)
 {
-	
+	return x * y;
 }
 
 function subtract(x,y)
 {
-	
+	return x - y;
 }
 
 function add(x,y)
 {
-	
+	return  x + y;
 }
 
 function power(x,y)
 {
-	
+	Math.pow(x, y);
 }
 
 function square_root(x)
 {
-	
+	Math.sqrt(x,y);
 }
 
 function logBase10(x)
 {
-	
+	Math.log(x,y)
 }
 
 function generateRandomNumber()
 {
-	
+	Math.random(x,y);
 }
