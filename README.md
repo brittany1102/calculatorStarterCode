@@ -16,5 +16,5 @@
     <li>finding the square root</li>
     </ul>  
 </p>  
-### What I would add
+ <strong> What I would add </strong>
     <p>If I had more time something I would be more functions and buttons to allow the user to include inputs such as pi or i.</p>  
