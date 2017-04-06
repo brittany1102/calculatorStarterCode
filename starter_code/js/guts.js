@@ -26,20 +26,20 @@ function add(x,y)
 
 function power(x,y)
 {
-	Math.pow(x, y);
+	return Math.pow(x, y);
 }
 
 function square_root(x)
 {
-	Math.sqrt(x,y);
+	return Math.sqrt(x);
 }
 
 function logBase10(x)
 {
-	Math.log(x,y)
+	return Math.log(x)
 }
 
 function generateRandomNumber()
 {
-	Math.random(x,y);
+	return Math.random() ;
 }
